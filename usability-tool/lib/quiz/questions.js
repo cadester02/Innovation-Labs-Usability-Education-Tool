@@ -169,3 +169,241 @@ export const heuristic1Questions = [
     selectedAnswer: null,
   },
 ];
+
+export const heuristic6Questions = [
+  {
+    question:
+      "According to Nielson's usability heuristics, which of the following is preferred?",
+    answers: [
+      "Recall over recognition",
+      "Recognition over recall",
+      "Both are equally important",
+      "Neither is important",
+    ],
+    correctAnswerIndex: 1,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Which of the following best illustrates the application of \"recognition rather than recall\" in a web application?",
+    answers: [
+      "Providing a search feature to find specific content",
+      "Displaying breadcrumbs to show the user's location",
+      "Requiring users to remember their login credentials",
+      "Using a minimalist design with hidden navigation options",
+    ],
+    correctAnswerIndex: 1,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Which of the following is an example of \"recognition rather than recall\" in a user interface?",
+    answers: [
+      "Requiring users to remember complex keyboard shortcuts",
+      "Giving users a help page with all the actions on it",
+      "Hiding important information behind multiple clicks",
+      "Providing a list of available actions and what they do on the screen",
+    ],
+    correctAnswerIndex: 3,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Which of the following is an advantage of recognition over recall?",
+    answers: [
+      "Requires deeper processing",
+      "Provides more context",
+      "Less susceptible to forgetting",
+      "Enhances creativity",
+    ],
+    correctAnswerIndex: 2,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Which of the following design elements violates the \"recognition rather than recall\" heuristic?",
+    answers: [
+      "Requiring users to remember specific commands for navigation",
+      "Providing autocomplete suggestions in a search bar",
+      "Using clear and descriptive labels for menu items",
+      "Providing visual cues for interactive elements",
+    ],
+    correctAnswerIndex: 0,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "How can designers apply the \"recognition rather than recall\" heuristic to improve usability?",
+    answers: [
+      "By providing clear and consistent navigation options",
+      "By requiring users to memorize complex commands",
+      "By using ambiguous icons without labels",
+      "By limiting the amount of information displayed on the screen",
+    ],
+    correctAnswerIndex: 0,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "In the context of web design, what is an example of implementing \"recognition rather than recall\"?",
+    answers: [
+      "Using icons without labels for navigation",
+      "Providing clear and descriptive labels for menu items",
+      "Asking users to remember their previous search queries",
+      "Hiding important information behind multiple clicks",
+    ],
+    correctAnswerIndex: 1,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Nielson's heuristic \"recognition rather than recall\" emphasizes the importance of:",
+    answers: [
+      "Minimizing the need for users to remember information",
+      "Maximizing the need for users to remember information",
+      "Using complex symbols that require memorization",
+      "None of the above",
+    ],
+    correctAnswerIndex: 0,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "How does the \"recognition rather than recall\" heuristic contribute to a positive user experience?",
+    answers: [
+      "By reducing the cognitive effort required to complete tasks",
+      "By challenging users to remember complex information",
+      "By encouraging users to rely on external memory aids",
+      "By limiting the options available to users",
+    ],
+    correctAnswerIndex: 2,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "How does adherence to the \"recognition rather than recall\" heuristic impact user satisfaction?",
+    answers: [
+      "It increases frustration due to limited options",
+      "It reduces cognitive effort and enhances user satisfaction",
+      "It requires users to memorize complex interface elements",
+      "It decreases user engagement and retention",
+    ],
+    correctAnswerIndex: 1,
+    selectedAnswer: null,
+  },
+]
+
+export const heuristic7Questions = [
+  {
+    question:
+      "What does Flexibility and efficiency of use emphasize in user interface design?",
+    answers: [
+      "Providing a wide range of customization options",
+      "Designing interfaces that are easy to learn",
+      "Slowing down the interaction time",
+      "Minimizing the number of features to reduce complexity",
+    ],
+    correctAnswerIndex: 0,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "How can software applications cater to both novice and expert users?",
+    answers: [
+      "By providing a complex interface with many options",
+      "By offering customization options and accelerators",
+      "By limiting functionality to essential features only",
+      "By removing all unnecessary features",
+    ],
+    correctAnswerIndex: 1,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Providing users with the ability to customize frequent actions is an example of following heuristic 7.",
+    answers: [
+      "True",
+      "False",
+    ],
+    correctAnswerIndex: 0,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "How can accelerators benefit user interfaces?",
+    answers: [
+      "By making tasks more difficult for novice users",
+      "By providing shortcuts for experienced users to perform actions more quickly",
+      "By adding unnecessary complexity to the interface",
+      "By slowing down the interaction for all users",
+    ],
+    correctAnswerIndex: 1,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "According to heuristic 7, interfaces should prioritize aesthetics over functionality.",
+    answers: [
+      "True",
+      "False",
+    ],
+    correctAnswerIndex: 1,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "What is the relationship between flexibility and efficiency?",
+    answers: [
+      "They are mutually exclusive concepts",
+      "Flexibility often leads to inefficiency ",
+      "They are complementary goals in interface design",
+      "Efficiency is more important than flexibility",
+    ],
+    correctAnswerIndex: 2,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Which of the following design choices is consistent with heuristic 7?",
+    answers: [
+      "Using a fixed layout that cannot be changed by the user",
+      "Restricting the number of features available to users",
+      "Making all actions require multiple confirmation steps",
+      "Providing a variety of customization options for user preferences",
+    ],
+    correctAnswerIndex: 3,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "According to heuristic 7, interfaces should prioritize efficiency over flexibility.",
+    answers: [
+      "True",
+      "False",
+    ],
+    correctAnswerIndex: 1,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "How can interfaces support both novice and expert users?",
+    answers: [
+      "By removing all advanced features to simplify the interface",
+      "By providing a consistent interface that does not change",
+      "By offering customization options that can be toggled on or off",
+      "By requiring users to undergo extensive training before using the interface",
+    ],
+    correctAnswerIndex: 2,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Heuristic 7 suggests that interfaces should be designed to cater exclusively to expert users.",
+    answers: [
+      "True",
+      "False",
+    ],
+    correctAnswerIndex: 1,
+    selectedAnswer: null,
+  },
+]
