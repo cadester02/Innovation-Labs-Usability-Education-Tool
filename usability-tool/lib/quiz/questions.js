@@ -407,3 +407,120 @@ export const heuristic7Questions = [
     selectedAnswer: null,
   },
 ]
+
+export const heuristic8Questions = [
+  {
+    question:
+      "Which of the following best describes the principle of aesthetic and minimalist design?",
+    answers: [
+      "Including all possible information to ensure users have all the information they might need.",
+      "Keeping dialogues free of irrelevant or rarely needed information and keeping the interface clean.",
+      "Using complex visual elements to enhance the user interface.",
+      "Using as many colors and fonts as possible without a clear direction",
+    ],
+    correctAnswerIndex: 1,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Aesthetic and minimalist design suggests that every extra unit of information in a dialogue enhances the user experience.",
+    answers: [
+      "True",
+      "False",
+    ],
+    correctAnswerIndex: 1,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Which of the following is a key aspect of aesthetic and minimalist design?",
+    answers: [
+      "Including all possible information.",
+      "Using complex visual elements.",
+      "Keeping dialogues free of irrelevant information.",
+      "Using as many colors and fonts as possible.",
+    ],
+    correctAnswerIndex: 2,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Aesthetic and minimalist design is focused on:",
+    answers: [
+      "Making the interface visually complex.",
+      "Reducing visual clutter and unnecessary elements.",
+      "Using a wide variety of colors and fonts.",
+      "All of the above.",
+    ],
+    correctAnswerIndex: 1,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Aesthetic and minimalist design encourages the inclusion of all possible information to ensure users have all they might need.",
+    answers: [
+      "True",
+      "False",
+    ],
+    correctAnswerIndex: 1,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "What should be the focus of dialogues according to the principle of aesthetic and minimalist design?",
+    answers: [
+      "Including as much information as possible.",
+      "Keeping the design visually complex.",
+      "Reducing visual clutter and unnecessary elements.",
+      "Maximizing the styling on the page",
+    ],
+    correctAnswerIndex: 2,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Which is more important having an aesthetic or a minimalist design?",
+    answers: [
+      "Aesthetics are more important.",
+      "Minimalist design is more important.",
+      "They both are not important at all.",
+      "None of the above.",
+    ],
+    correctAnswerIndex: 3,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Which of the following is not aligned with the principle of aesthetic and minimalist design?",
+    answers: [
+      "Using simple and clean visuals.",
+      "Providing only relevant information.",
+      "Including complex visual elements.",
+      "Keeping dialogues free of irrelevant information.",
+    ],
+    correctAnswerIndex: 2,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Aesthetic and minimalist design encourages decreasing the use of complex visual elements in the interface.",
+    answers: [
+      "True",
+      "False",
+    ],
+    correctAnswerIndex: 0,
+    selectedAnswer: null,
+  },
+  {
+    question:
+      "Sometimes, including extra information in a dialogue can:",
+    answers: [
+      "Confuse users.",
+      "Enhance the user experience.",
+      "Improve clarity.",
+      "All of the above.",
+    ],
+    correctAnswerIndex: 0,
+    selectedAnswer: null,
+  },
+]
